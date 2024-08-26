@@ -25,13 +25,13 @@ function CityList() {
 CityList.propTypes = {
   cities: PropTypes.arrayOf(
     PropTypes.shape({
-      id: PropTypes.number.isRequired,
-      cityName: PropTypes.string.isRequired,
-      emoji: PropTypes.string.isRequired,
-      date: PropTypes.string.isRequired,
+      id: PropTypes.number,
+      cityName: PropTypes.string,
+      emoji: PropTypes.string,
+      date: PropTypes.string,
     })
-  ).isRequired,
-  isLoading: PropTypes.bool.isRequired,
+  ),
+  isLoading: PropTypes.bool,
 };
 
 export default CityList;
