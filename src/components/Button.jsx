@@ -14,8 +14,4 @@ Button.propTypes = {
   type: PropTypes.oneOf(['primary', 'back', 'position']),
 };
 
-Button.defaultProps = {
-  type: 'primary',
-};
-
 export default Button;
