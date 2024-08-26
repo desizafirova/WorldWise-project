@@ -1,3 +1,7 @@
+.liItem {
+  list-style: none;
+}
+
 .cityItem,
 .cityItem:link,
 .cityItem:visited {
