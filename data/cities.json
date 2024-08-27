@@ -35,6 +35,66 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "id": "46f2",
+      "cityName": "Ludiente",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-27T07:48:54.767Z",
+      "notes": ":)",
+      "position": {
+        "lat": "40.10748741901244",
+        "lng": "-0.38452148437500006"
+      }
+    },
+    {
+      "id": "7b0d",
+      "cityName": "Ludiente",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-27T07:48:54.767Z",
+      "notes": ":)",
+      "position": {
+        "lat": "40.10748741901244",
+        "lng": "-0.38452148437500006"
+      }
+    },
+    {
+      "id": "3a3b",
+      "cityName": "Utrillas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-27T08:05:47.976Z",
+      "notes": "",
+      "position": {
+        "lat": "40.80705305827062",
+        "lng": "-0.8308410644531251"
+      }
+    },
+    {
+      "id": "c095",
+      "cityName": "Encamp",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2024-08-27T08:09:21.828Z",
+      "notes": "",
+      "position": {
+        "lat": "42.50450285299051",
+        "lng": "1.6589355468750002"
+      }
+    },
+    {
+      "id": "f66e",
+      "cityName": "Balma",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-27T08:10:17.118Z",
+      "notes": "jdskfd",
+      "position": {
+        "lat": "43.60625069174644",
+        "lng": "1.4996337890625002"
+      }
     }
   ]
 }
